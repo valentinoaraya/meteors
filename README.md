@@ -48,7 +48,7 @@ python main.py
 
 ### En el juego
 
-![En el juego](https://res.cloudinary.com/dyzoubfmd/image/upload/v1731695068/imgReadme/Captura_de_pantalla_de_2024-11-15_15-19-44_x7gj3y.png)
+![En el juego](https://res.cloudinary.com/dyzoubfmd/image/upload/v1731695849/imgReadme/Captura_de_pantalla_de_2024-11-15_15-37-01_oycsbt.png)
 
 
 ### Menú de fin de juego
