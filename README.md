@@ -41,15 +41,18 @@ python main.py
 ```
 
 ## 🖼️ Imágenes del juego
-Menú principal
+### Menú principal
+
 ![Menú Principal](https://res.cloudinary.com/dyzoubfmd/image/upload/v1731695061/imgReadme/Captura_de_pantalla_de_2024-11-15_15-16-18_ovaugy.png)
 
 
-En el juego
+### En el juego
+
 ![En el juego](https://res.cloudinary.com/dyzoubfmd/image/upload/v1731695068/imgReadme/Captura_de_pantalla_de_2024-11-15_15-19-44_x7gj3y.png)
 
 
-Menú de fin de juego
+### Menú de fin de juego
+
 ![Menú de fin de juego](https://res.cloudinary.com/dyzoubfmd/image/upload/v1731695076/imgReadme/Captura_de_pantalla_de_2024-11-15_15-16-49_qymphs.png)
 
 ## 📂 Estructura del proyecto
